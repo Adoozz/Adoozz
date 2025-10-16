@@ -1,6 +1,6 @@
 ## Hi there, I'm ADOO! 👋
 <p align="center"> 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZqeTh6eDNmdjhhd2pkYXptdmNveG03MzR1d3gwNjl4cXdtOHlmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6fJ5z2bgCLBshZUA/giphy.gif" width="400">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW8weDB6dDgxMmsxb3JhZ3FmODZrcWIwbWI4MDVneDRvdzYxamZmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif" width="700">
 </p>
 <!--
 **Adoozz/Adoozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
